@@ -487,7 +487,6 @@
         }
     }
     else{
-        // 未填写 自分组名称
 //        [self showHintString:@"未填写子分组"];
     }
     self.cancelButton.frame = CGRectMake(0, self.mainBgView.frame.size.height - 42, KScreenWidth/2 - 25, 42);
